@@ -76,3 +76,7 @@ html, body {
   list-style:none;
   padding-left:0px;  
 }
+
+.series_img img{
+	width:100%;
+}
